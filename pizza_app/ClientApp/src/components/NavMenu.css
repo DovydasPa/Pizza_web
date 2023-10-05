@@ -1,0 +1,72 @@
+﻿
+.logo img{
+  height: 50px;
+}
+
+.logo1 img{
+  height: 120px;
+}
+
+.logo2 img{
+  height: 50px;
+}
+
+.nav-up{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+  color: white;
+}
+
+.navbar-visas{
+  background-color: #121619;
+  
+} 
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.navbar-toggler {
+  border-color: black;
+
+}
+.linkas{
+  color: #fff;
+  text-decoration: none;
+}
+
+.active{
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+}
+
+.linkas:hover{
+  color: yellow;
+}
+
+.ipagrindini{
+  color: white;
+}
+.ipagrindini:hover{
+  color: yellow;
+}

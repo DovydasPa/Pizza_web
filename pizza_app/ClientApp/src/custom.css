@@ -1,0 +1,38 @@
+/* Provide sufficient contrast against white background */
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@400;500;600&display=swap');
+a {
+  
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  
+}
+
+body{
+ 
+  
+}
+
+*{
+  font-family: "Onest";
+}
+
+.kontikas{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* background-color: #E01A76; */
+  
+}
+
+
+
+
+
+
